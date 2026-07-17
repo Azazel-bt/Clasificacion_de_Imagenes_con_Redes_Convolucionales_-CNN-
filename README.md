@@ -20,6 +20,26 @@ El propósito principal es validar de manera empírica las afirmaciones del art�
 
 ---
 
-## 🏗️ Arquitectura de la Red (Tabla 1)
+## 🏗️ Arquitectura de la Red
+Aquí tienes la tabla en formato Markdown basada exactamente en los datos de la imagen (la arquitectura de red tipo *Network in Network* o NIN) para que puedas integrarla directamente en tu archivo `README.md`:
+
+| Input Size | NIN |
+| --- | --- |
+| $32 \times 32$ | 5x5, 192 |
+| $32 \times 32$ | 1x1, 160 |
+| $32 \times 32$ | 1x1, 96 |
+| $32 \times 32$ | 3x3 max pooling, /2 |
+| $16 \times 16$ | dropout, 0.5 |
+| $16 \times 16$ | 5x5, 192 |
+| $16 \times 16$ | 1x1, 192 |
+| $16 \times 16$ | 1x1, 192 |
+| $16 \times 16$ | 3x3, avg pooling, /2 |
+| $8 \times 8$ | dropout, 0.5 |
+| $8 \times 8$ | 3x3, 192 |
+| $8 \times 8$ | 1x1, 192 |
+| $8 \times 8$ | 1x1, 10 |
+| $8 \times 8$ | 8x8, avg pooling, /1 |
+| 10 or 100 | softmax |
+
 
 El modelo replica la estructura convolucional diseñada para clasificar las imágenes del dataset CIFAR-10, la cual evalúa de forma idónea la capacidad de aprendizaje de las neuronas rectificadas bajo diferentes condiciones de contorno.
