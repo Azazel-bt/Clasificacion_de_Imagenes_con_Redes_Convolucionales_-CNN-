@@ -43,6 +43,56 @@ Aquí tienes la tabla en formato Markdown basada exactamente en los datos de la 
 
 El modelo replica la estructura convolucional diseñada para clasificar las imágenes del dataset CIFAR-10, la cual evalúa de forma idónea la capacidad de aprendizaje de las neuronas rectificadas bajo diferentes condiciones de contorno.
 
---- PROCESAMIENTO PASO A PASO POR CAPA ---
+### 🏗️ PROCESAMIENTO PASO A PASO POR CAPA 
+<img width="250" height="273" alt="image" src="https://github.com/user-attachments/assets/15c3ede0-4acf-40c2-81d0-a702a387b3ae" />
+
 <img width="1182" height="227" alt="image" src="https://github.com/user-attachments/assets/a374912a-a1a2-4d3a-bf5c-812fd0f8bbfe" />
+
+<img width="1182" height="227" alt="image" src="https://github.com/user-attachments/assets/caca0fb0-792c-44a5-bdec-14795160c309" />
+
+<img width="1182" height="227" alt="image" src="https://github.com/user-attachments/assets/5a9c3288-aa93-4e24-b46f-3e5c6d544a16" />
+
+<img width="1182" height="227" alt="image" src="https://github.com/user-attachments/assets/6cb4043b-7af7-490b-b161-0fc621512b1b" />
+
+<img width="1182" height="227" alt="image" src="https://github.com/user-attachments/assets/f291b7cf-9701-40c8-97f0-8b8d15d4c234" />
+
+<img width="1182" height="227" alt="image" src="https://github.com/user-attachments/assets/7cc19e20-f4d1-40ed-ae6c-7f586e675285" />
+
+<img width="1182" height="227" alt="image" src="https://github.com/user-attachments/assets/669727a7-c699-45e5-9564-5e17ada459d9" />
+
+<img width="1182" height="227" alt="image" src="https://github.com/user-attachments/assets/26a71e85-a094-4f4e-81e2-dcdbb296e442" />
+
+<img width="1182" height="227" alt="image" src="https://github.com/user-attachments/assets/0240507a-3d83-43af-9fe2-140c9b97ab67" />
+
+<img width="1182" height="227" alt="image" src="https://github.com/user-attachments/assets/fdb4895d-f4d2-40b2-bb76-bbda3d257986" />
+
+<img width="1182" height="227" alt="image" src="https://github.com/user-attachments/assets/75d8c036-9c2b-4ce7-ae5b-b297f7d0db98" />
+
+<img width="1182" height="227" alt="image" src="https://github.com/user-attachments/assets/27f79503-49fb-4da1-87d3-6237764c2792" />
+
+<img width="1182" height="227" alt="image" src="https://github.com/user-attachments/assets/7e41ef1f-b5df-48d8-829f-502ef2be07a1" />
+
+<img width="1182" height="227" alt="image" src="https://github.com/user-attachments/assets/92090f2b-7b64-4ad2-b3a8-35659f9a4c21" />
+
+<img width="1182" height="227" alt="image" src="https://github.com/user-attachments/assets/a3c41050-ae0d-4691-b58e-9ae79338a087" />
+
+<img width="1182" height="227" alt="image" src="https://github.com/user-attachments/assets/6a504d19-a38d-4d25-b518-98d3085697e9" />
+
+<img width="1182" height="227" alt="image" src="https://github.com/user-attachments/assets/544dc6d9-43f4-4764-a4d8-1c211ea53870" />
+
+<img width="1182" height="227" alt="image" src="https://github.com/user-attachments/assets/82e08449-7a8e-4d41-8786-9f44650cbff7" />
+
+<img width="1182" height="227" alt="image" src="https://github.com/user-attachments/assets/970b317c-487d-431e-82d2-5484ae9ad27c" />
+
+<img width="1182" height="227" alt="image" src="https://github.com/user-attachments/assets/430ab22f-a474-49de-9b3b-70723363b0dc" />
+
+<img width="1182" height="227" alt="image" src="https://github.com/user-attachments/assets/aa17bb43-77c7-4350-829c-93dae1e97487" />
+
+
+
+
+
+
+
+
 
