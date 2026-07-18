@@ -43,5 +43,6 @@ Aquí tienes la tabla en formato Markdown basada exactamente en los datos de la 
 
 El modelo replica la estructura convolucional diseñada para clasificar las imágenes del dataset CIFAR-10, la cual evalúa de forma idónea la capacidad de aprendizaje de las neuronas rectificadas bajo diferentes condiciones de contorno.
 
+--- PROCESAMIENTO PASO A PASO POR CAPA ---
 <img width="1182" height="227" alt="image" src="https://github.com/user-attachments/assets/a374912a-a1a2-4d3a-bf5c-812fd0f8bbfe" />
 
